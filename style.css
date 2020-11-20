@@ -8,5 +8,16 @@ body {
 h1 {
     color: forestgreen;
     font-size: 36px;
+}
+ul {
+    background-color: gold;
+    padding: 20px;
+}
+ul li {
+    margin-left: 35px;
+    padding: 5px;
     
 }
+
+
+
