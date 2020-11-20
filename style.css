@@ -10,7 +10,8 @@ h1 {
     font-size: 36px;
 }
 ul {
-    background-color: gold;
+    list-style-type: none;
+    background: gold;
     padding: 20px;
 }
 ul li {
