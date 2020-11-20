@@ -10,11 +10,18 @@ h1 {
     color: forestgreen;
     font-size: 36px;
 }
-ul {
-    list-style: square;
+.a {
+    list-style-type: circle;
     background: gold;
     padding: 20px;
 }
+
+.b {
+    list-style-type: square;
+    background: greenyellow;
+    padding: 20px;
+}
+
 ul li {
     margin-left: 35px;
     padding: 5px;
